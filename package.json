@@ -13,7 +13,7 @@
     "start": "NODE_ENV=production node --conditions=react-server build/node-server/NodeServer.js --env=production"
   },
   "dependencies": {
-    "@hono/node-server": "^1.11.1",
+    "@hono/node-server": "^1.19.13",
     "hono": "^4.12.12",
     "markdown-to-jsx": "^7.4.7",
     "react": "^19.0.0-rc-6d3110b4d9-20240531",
